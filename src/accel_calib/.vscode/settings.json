@@ -1,0 +1,10 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetDevice": "robot_bearcat",
+    "particle.firmwareVersion": "5.4.1",
+    "particle.targetPlatform": "argon"
+}
